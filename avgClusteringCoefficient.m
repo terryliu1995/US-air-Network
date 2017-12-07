@@ -11,7 +11,6 @@ function [acc, c] = avgClusteringCoefficient(graph)
 %   acc = avgClusteringCoefficient(my_net);
 %   [~, c] = avgClusteringCoefficient(my_net);
 %
-% Copyright (C) Gregorio Alanis-Lobato, 2014
 
 %% Input parsing and validation
 ip = inputParser;
