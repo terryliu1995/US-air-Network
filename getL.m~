@@ -1,0 +1,11 @@
+function [lap] = getL(A)
+%GETD 此处显示有关此函数的摘要
+%   此处显示详细说明
+s = size(A);
+for m = 1:s
+   d(1,s) = sum(A(s,:));
+end
+dg
+lap = A;
+end
+
